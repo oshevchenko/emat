@@ -2,8 +2,16 @@
 <manifest>
   <remote name="origin" fetch="." />
   <default revision="master" remote="origin" />
-
   <project path="software/emat_stm32"
            name="emat_stm32.git" revision="master" />
+
+  <project path="schematic"
+           name="emat_schematic.git" revision="master" />
+
+  <project path="ltspice"
+           name="emat_ltspice.git" revision="master" />
+
+  <project path="docs"
+           name="emat_docs.git" revision="master" />
 
 </manifest>
