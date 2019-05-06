@@ -3,7 +3,7 @@
   <remote name="origin" fetch="." />
   <default revision="master" remote="origin" />
 
-  <project path="src/emat_stm32"
+  <project path="software/emat_stm32"
            name="emat_stm32.git" revision="master" />
 
 </manifest>
